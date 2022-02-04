@@ -16,5 +16,5 @@ $ npm run start
 
 ## See other
 
-[Long Polling](https://github.com/Sannet0/real-time-data-transmission-fe/tree/long-polling)
-[Websocket](https://github.com/Sannet0/real-time-data-transmission-fe/tree/websocket)
+[Long Polling](https://github.com/Sannet0/real-time-data-transmission-be/tree/long-polling)
+[Websocket](https://github.com/Sannet0/real-time-data-transmission-be/tree/websocket)
